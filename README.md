@@ -33,7 +33,7 @@ const onSubmit = async (e) => {
 
 ```html
 // in JSX
-<script src="svgXSSDetector.js" type="text/javascript" ></script>
+<script src="svgXSSDetector.min.js" type="text/javascript" ></script>
 
 <input type='file' onSubmit={onSubmit}/>
 ```
