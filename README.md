@@ -5,7 +5,7 @@ EN: a small SVG sanitizer to prevent XSS attacks
 
 ## Why
 
-TR: 3. Kişilerden tarafından yüklenen svg'ler güvensizdir. İçerisinde XSS saldırı kodları bulunabilir.
+TR: 3. Kişiler tarafından yüklenen svg'ler güvensizdir. İçerisinde XSS saldırı kodları bulunabilir.
 Küçük bir js dosyasıyla bu saldırıların önüne geçebilirsiniz.
 
 EN: Bad actors can put script tags in SVG files.
